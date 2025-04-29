@@ -23,4 +23,7 @@ module.exports = {
       },
     ],
   },
+  nextConfig:{
+    output:"exports",
+  }
 }
